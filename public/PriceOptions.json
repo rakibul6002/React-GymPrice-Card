@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 30,
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "1 free personal training session per month",
+        "Access to cardio machines",
+        "Open gym hours only",
+        "No cancellation fee after 6 months"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": 50,
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "4 personal training sessions per month",
+        "Access to group classes",
+        "Access to yoga and pilates classes",
+        "Free Wi-Fi",
+        "Complimentary towel service",
+        "Discounts on gym merchandise"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 70,
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "Unlimited personal training sessions",
+        "Access to group classes",
+        "Sauna and spa access",
+        "Priority booking for classes",
+        "Free nutritional consultations",
+        "Access to steam room",
+        "Complimentary protein shake per session"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "VIP Plan",
+      "price": 90,
+      "features": [
+        "24/7 gym access",
+        "Private locker",
+        "Personalized diet and workout plan",
+        "Unlimited personal training sessions",
+        "Sauna, spa, and massage therapy access",
+        "Free supplements and drinks",
+        "Reserved parking spot",
+        "Access to exclusive rooftop pool",
+        "Priority customer support",
+        "Monthly body composition analysis"
+      ]
+    }
+  ]
+  
